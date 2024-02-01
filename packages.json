@@ -1,0 +1,14 @@
+[
+    {
+        "package": "arcpbf",
+        "url": "https://github.com/r-arcgis/arcpbf"
+    },
+    {
+        "package": "arcgisutils",
+        "url": "https://github.com/r-arcgis/arcgisutils"
+    },
+    {
+        "package": "arcgislayers",
+        "url": "https://github.com/r-arcgis/arcgislayers"
+    }
+]
