@@ -10,5 +10,13 @@
     {
         "package": "arcgislayers",
         "url": "https://github.com/r-arcgis/arcgislayers"
+    },
+    {
+        "package": "arcgisgeocode",
+        "url": "https://github.com/r-arcgis/arcgisgeocode"
+    },
+    {
+        "package": "arcgis",
+        "url": "https://github.com/r-arcgis/arcgis"
     }
 ]
