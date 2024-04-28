@@ -18,5 +18,9 @@
     {
         "package": "arcgis",
         "url": "https://github.com/r-arcgis/arcgis"
+    },
+    {
+        "package": "arcgisplaces",
+        "url": "https://github.com/r-arcgis/arcgisplaces"
     }
 ]
