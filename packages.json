@@ -16,8 +16,12 @@
         "url": "https://github.com/r-arcgis/arcgisgeocode"
     },
     {
-        "package": "arcgis",
-        "url": "https://github.com/r-arcgis/arcgis"
+        "package": "arcgisrouting",
+        "url": "https://github.com/r-arcgis/arcgisrouting"
+    },
+    {
+        "package": "calcite",
+        "url": "https://github.com/r-arcgis/calcite"
     },
     {
         "package": "arcgisplaces",
